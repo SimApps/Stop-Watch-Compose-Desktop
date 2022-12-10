@@ -1,0 +1,26 @@
+--input
+"C:\\Users\\PC\\Desktop\\Compose Desktop\\StopWatch_Compse_Desktop\\build\\compose\\tmp\\createDistributable\\libs"
+--runtime-image
+"C:\\Users\\PC\\Desktop\\Compose Desktop\\StopWatch_Compse_Desktop\\build\\compose\\tmp\\main\\runtime"
+--resource-dir
+"C:\\Users\\PC\\Desktop\\Compose Desktop\\StopWatch_Compse_Desktop\\build\\compose\\tmp\\resources"
+--java-options
+"'-Dcompose.application.resources.dir=$APPDIR\\resources'"
+--main-jar
+"C:\\Users\\PC\\Desktop\\Compose Desktop\\StopWatch_Compse_Desktop\\build\\compose\\tmp\\createDistributable\\libs\\StopWatch_Compse_Desktop-1.0-4ac19e992c939f5691411b6c6a377696.jar"
+--main-class
+"MainKt"
+--icon
+"C:\\Users\\PC\\Desktop\\Compose Desktop\\StopWatch_Compse_Desktop\\build\\compose\\default-icons\\1.1.1\\icon-windows.ico"
+--java-options
+"'-Dcompose.application.configure.swing.globals=true'"
+--java-options
+"'-Dskiko.library.path=$APPDIR'"
+--type
+"app-image"
+--dest
+"C:\\Users\\PC\\Desktop\\Compose Desktop\\StopWatch_Compse_Desktop\\build\\compose\\binaries\\main\\app"
+--name
+"StopWatch_Compse_Desktop"
+--app-version
+"1.0.0"
